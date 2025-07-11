@@ -3,7 +3,7 @@ import arrayOne from './arrays/array-1';
 
 const App = () => {
     return (
-        <div className="w-[2032px] h-[3032px] p-4 mx-auto">
+        <div className="w-[1832px] h-[3032px] p-4 mx-auto">
             <div className="h-[3000px] shadow-2xl w-full bg-amber-950 p-4 relative ">
                 <h1 className="text-8xl h-24 text-amber-50 font-bold uppercase leading-30 text-center">
                     замкова абетка
